@@ -1,5 +1,5 @@
 ## Sales forecasting
-Sales forecasting by using time series model.
+The project concerns sales forecasting by using time series model. 
 
 That was a recruitment task for the Analyst role in eobuwie.pl.
 
@@ -14,4 +14,4 @@ Task 2 concerns forecast of the number of orders by Time Series model.
 
 #### Running the project:
 
-    To run this project use Jupyter Notebook or Google Colab.
+To run this project use Jupyter Notebook or Google Colab.
