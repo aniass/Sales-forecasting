@@ -1,7 +1,7 @@
 ## Sales forecasting
 The project concerns sales forecasting by using time series model. 
 
-That was a recruitment task for the Analyst role in eobuwie.pl.
+That was a recruitment task for the Analyst role.
 
 ### General info
 This tasks include sales data analysis and sales forecasting. Task 1 contains EDA analysis with answers of the asked questions.
